@@ -20,6 +20,7 @@ function card(props) {
         <button class="mt-2 inline-flex cursor-pointer items-center text-sm font-semibold text-white">
           {props.btnText} →
         </button>
+       
       </div>
     </div>
   );

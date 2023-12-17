@@ -13,6 +13,8 @@ function App() {
       console.log(counter);
       setCounter(counter + 1);
     }
+
+    
   };
   const removeValue = () => {
     console.log("vlaue removed", Math.random());
